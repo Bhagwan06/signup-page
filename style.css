@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(235, 230, 225);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    padding-top: 64px;
+    align-content: center;
+    margin: 74px;
+
+}
+
+.container{
+    border-radius: 8px;
+    box-shadow:1px 2px 3px 4px rgb(180, 189, 199);
+    text-align: left;
+    height: 350px;
+    width: 400px;
+    background-color: aliceblue;
+    padding: 24px;
+}
+
+.container input{
+    height: 36px;
+    width: 400px;
+    border-radius: 6px;
+
+}
+
+.container h2{
+    text-align: center;
+}
+
+.container button{
+    height: 36px;
+    width: 400px;
+    border-radius: 6px;
+    margin-top: 20px;
+    background-color: rgb(26, 162, 196);
+    color: white;
+
+}
