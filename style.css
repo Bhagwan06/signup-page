@@ -38,5 +38,8 @@ body{
     margin-top: 20px;
     background-color: rgb(26, 162, 196);
     color: white;
+}
 
+.container button:hover{
+    background-color: rgb(20, 120, 150);
 }
